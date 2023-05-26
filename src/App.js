@@ -1,14 +1,20 @@
+import  NavBar from './scenes/NavBar';
 import {useState} from 'react';
+import useMediaQuery from "./hooks/useMediaQuery";
 
 function App() {
-  const [selected]
+  const [selectedPage, setSelectedPage] = useState('home');
+  const isAboveMediumScreens = useMediaQuery("(min-width:1060px");
 
 
   return (
-    <div className="App">
-
-    </div>
-  );
+  <div className="app bg-deep-blue">
+    <NavBar 
+    // isTopOfPage={isTopOfPage}
+    seletedPage = {selectedPage} 
+    setSelectedPage={setSelectedPage}/>
+    <div className='w-5/6 mx-auto md:h-full'></div>
+  </div>);
 }
 
 export default App;
