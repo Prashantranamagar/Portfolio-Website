@@ -16,19 +16,30 @@ const About = () => {
             About
           </p>
         </div>
-        <p className="text-xl mt-20 ">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit
-          praesentium totam quam dolores, quas excepturi necessitatibus
-          possimus, odit itaque inventore accusantium perspiciatis? Provident
-          nemo, ut ratione praesentium in optio asperiores!
+
+        <p className="text-xl mt ">
+        Greetings! I'm Prashant Rana Magar, a backend developer with a profound expertise in Python. 
+        My passion lies in creating efficient and effective digital solutions that drive innovation. 
+        I'm particularly intrigued by the applications of Python in automation and fintech.
         </p>
         <br />
+
         <p className="text-xl">
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores
-          necessitatibus eligendi, ab sit qui quia at et eius blanditiis a
-          doloribus mollitia adipisci voluptates alias ad, nesciunt minima porro
-          ipsum!
+        With a keen focus on backend development, I specialize in leveraging Python's capabilities to build seamless systems. 
+        Whether it's optimizing databases for lightning-fast data retrieval or architecting APIs that facilitate flawless communication, 
+        I'm dedicated to crafting solutions that empower technology.
         </p>
+        <br />
+
+        <p className="text-xl">
+        Despite being relatively new to the professional sphere, I'm fueled by an unwavering curiosity and commitment 
+        to mastering my craft. My journey started with Python and has led me to the exciting convergence of technology 
+        and finance. If you're searching for a backend developer who thrives on challenges and seeks to contribute to 
+        automation and fintech ventures, let's connect.
+        </p>
+        <br />
+     
+        
       </div>
     </div>
   );

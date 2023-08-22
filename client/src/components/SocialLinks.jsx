@@ -11,7 +11,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />{" "}
         </>
       ),
-      href: "https://linkedin.com",
+      href: "https://www.linkedin.com/in/prashantranamagar/",
       style: "rounded-tr-md",
     },
     {
@@ -21,7 +21,7 @@ const SocialLinks = () => {
           GitHub <FaGithub size={30} />{" "}
         </>
       ),
-      href: "https://github.com/Sameer-321",
+      href: "https://github.com/Prashantranamagar",
       style: "rounded-tr-md",
     },
     {
@@ -31,7 +31,7 @@ const SocialLinks = () => {
           Mail <HiOutlineMail size={30} />{" "}
         </>
       ),
-      href: "mailto:snrsameer1@gmail.com",
+      href: "ranamagar.prashant@gmail.com",
       style: "rounded-tr-md",
     },
     {
