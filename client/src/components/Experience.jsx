@@ -7,9 +7,9 @@ import docker from "../assets/docker.png";
 import mysql from "../assets/mysql.png";
 import github from "../assets/github.png";
 import selenium from "../assets/selenium.png";
-import html from "../assets/html.png";
-import css from "../assets/css.png";
-import javascript from "../assets/javascript.png";
+// import html from "../assets/html.png";
+// import css from "../assets/css.png";
+// import javascript from "../assets/javascript.png";
 
 
 
@@ -65,24 +65,24 @@ const Experience = () => {
       title: "Selenium",
       style: "shadow-gray-400",
     },
-    {
-      id: 9,
-      src: html,
-      title: "Html",
-      style: "shadow-gray-400",
-    },
-    {
-      id: 10,
-      src: css,
-      title: "CSS",
-      style: "shadow-gray-400",
-    },
-    {
-      id: 11,
-      src: javascript,
-      title: "JavaScript",
-      style: "shadow-gray-400",
-    },
+    // {
+    //   id: 9,
+    //   src: html,
+    //   title: "Html",
+    //   style: "shadow-gray-400",
+    // },
+    // {
+    //   id: 10,
+    //   src: css,
+    //   title: "CSS",
+    //   style: "shadow-gray-400",
+    // },
+    // {
+    //   id: 11,
+    //   src: javascript,
+    //   title: "JavaScript",
+    //   style: "shadow-gray-400",
+    // },
   ];
   return (
     <div
