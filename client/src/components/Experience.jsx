@@ -7,6 +7,10 @@ import docker from "../assets/docker.png";
 import mysql from "../assets/mysql.png";
 import github from "../assets/github.png";
 import selenium from "../assets/selenium.png";
+import postman from "../assets/postman.svg";
+// import jenkins from "../assets/jenkins.png";
+
+
 // import html from "../assets/html.png";
 // import css from "../assets/css.png";
 // import javascript from "../assets/javascript.png";
@@ -65,12 +69,12 @@ const Experience = () => {
       title: "Selenium",
       style: "shadow-gray-400",
     },
-    // {
-    //   id: 9,
-    //   src: html,
-    //   title: "Html",
-    //   style: "shadow-gray-400",
-    // },
+    {
+      id: 9,
+      src: postman,
+      title: "Postman",
+      style: "shadow-gray-400",
+    },
     // {
     //   id: 10,
     //   src: css,
